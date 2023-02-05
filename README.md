@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/ramin-solhi-96bb68140" alt="ramin solhi's linedin">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
  </a>
-  <a href="https://twitter.com/raminsolhi" alt="ramin solhi's twitter">
+  <a href="https://twitter.com/solhiramin" alt="ramin solhi's twitter">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
  </a>
   <a href="https://raminsolhi.com" alt="ramin solhi's blog">
