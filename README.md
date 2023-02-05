@@ -36,9 +36,6 @@
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" with="50" height="50" alt="dotnet" >
   </a>
-  <a href="https://go.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" with="50" height="50" alt="golang" >
-  </a>
       <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="50" height="50" alt="javascript" >
   </a>
