@@ -11,7 +11,7 @@
   <a href="https://twitter.com/solhiramin" alt="ramin solhi's twitter">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
  </a>
-  <a href="https://raminsolhi.ir" alt="ramin solhi's blog">
+  <a href="http://raminsolhi.ir/" alt="ramin solhi's blog">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=967bb6&logo=Microsoft+Edge&logoColor=FFFFFF&label=" />
  </a>
  <a>
